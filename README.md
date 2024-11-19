@@ -41,6 +41,7 @@ How to Use 🍽️ :
 3) Add Toppings : Pick any available toppings you want to add (optional).
 4) View Order Summary : After placing the order, the program will show a summary with your pizza details and the total cost.
 
+
    
 Example:
 
@@ -68,6 +69,7 @@ Total bill : $17
 ```
 
 
+
 Code Explanation 📝 : 
 
 The code is written in Python and uses basic input/output techniques for interaction. Here’s a brief overview of how the program works:
@@ -79,15 +81,18 @@ The code is written in Python and uses basic input/output techniques for interac
    
 
 
+
 👥 Contributing:
 
 Feel free to contribute by forking the repository and submitting a pull request! Please follow best practices and add tests for any new features.
 
 
 
+
 License 📄 : 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
 
