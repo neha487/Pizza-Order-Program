@@ -1,2 +1,3 @@
-# Pizza-Order-Program
-🍕 The Pizza Order Program is a Python-based application that allows users to choose a pizza, add toppings, and calculate the total cost. It's a simple interactive program for practicing basic Python concepts like user input and conditionals.
+🍕 Pizza Order Program 🍕
+
+Welcome to the Pizza Order Program! This Python application allows users to order pizzas from a menu, select their toppings, and calculate the total price. Perfect for simulating pizza orders for restaurants or practicing Python programming.
